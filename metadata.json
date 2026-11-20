@@ -1,0 +1,6 @@
+{
+  "name": "MA AI Studio",
+  "description": "Next-generation AI video, image, and chat creation studio with modular providers, timeline editor, multilingual UI, and cloud projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
